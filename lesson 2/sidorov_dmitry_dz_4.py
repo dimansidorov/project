@@ -3,4 +3,4 @@ wrong_staff = ['инженер-конструктор Игорь', 'главны
 
 for member in wrong_staff:
     member.split()[-1].title()
-    print('Привет,', member.split()[-1].title())
+    print(f'Привет, {member.split()[-1].title()}')
