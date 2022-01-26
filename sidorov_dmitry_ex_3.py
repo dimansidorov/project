@@ -44,4 +44,4 @@ print(c1 + c2)
 print(c1 - c2)
 print(c1 * c2)
 # print(c1 // c4)  # проверка деления на 0
-print(c2.make_order(68))
+print(c2.make_order(8))
